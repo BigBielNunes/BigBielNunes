@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BigBielNunes
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning Linux  
+- 🌱 I’m currently learning HTML, CSS, JS, JAVA, PYTHON and LINUX
 - 💞️ I’m looking to collaborate on the good of society
 - 📫 How to reach me https://www.linkedin.com/in/gabriel-nunes-6a3392234
 
